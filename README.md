@@ -13,5 +13,5 @@ a file used to keep the bot running on replit without needing it to constantly b
 text file containing all of the conversions.
 the format is:
 <character that gets converted>=<first emoji it can be> <another emoji?> ......
-  eg. A=:a: :regional_indicator_a>
+  eg. O=:o: :regional_indicator_o>
 if you update this file while the bot is still running, you don't have to relaunch the bot just run /update to rebuild the map with the updated conversions
